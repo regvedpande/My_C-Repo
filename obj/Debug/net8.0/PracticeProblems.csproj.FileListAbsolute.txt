@@ -1,0 +1,14 @@
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\bin\Debug\net8.0\PracticeProblems.exe
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\bin\Debug\net8.0\PracticeProblems.deps.json
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\bin\Debug\net8.0\PracticeProblems.runtimeconfig.json
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\bin\Debug\net8.0\PracticeProblems.dll
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\bin\Debug\net8.0\PracticeProblems.pdb
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.AssemblyInfo.cs
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.dll
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\refint\PracticeProblems.dll
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.pdb
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\PracticeProblems.genruntimeconfig.cache
+C:\Users\regre\Documents\PracticeProblems\PracticeProblems\obj\Debug\net8.0\ref\PracticeProblems.dll
